@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at [the State Key Laboratory of Robotics and Systems](http://robot.hit.edu.cn) at [Harbin Institute of Technology](https://www.hit.edu.cn) , mainly engaged in the research of exoskeleton robots and soft robots.
+I am currently a PhD student in the Department of Biomedical Engineering at NUS, mainly engaged in the research of Magnetic drive robot and wearbale device.
 
-I earned my bachelor’s degree at [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn) at [Jilin University](https://www.jlu.edu.cn) , under the guidance of [Prof. Zhihui Zhang](https://cbae.jlu.edu.cn/info/1221/3883.htm?eqid=ce15c342000be4c00000000364413dba). Now, I am pursuing a master's degree in the research group of [Prof. Jie Zhao](https://homepage.hit.edu.cn/zhaojie), Director of the Robotics Institute of Harbin Institute of Technology, under the guidance of [Prof. Yanhe Zhu](https://homepage.hit.edu.cn/zhuyanhe).
+I earned my bachelor’s degree at [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn) at [Jilin University](https://www.jlu.edu.cn) , under the guidance of [Prof. Zhihui Zhang](https://cbae.jlu.edu.cn/info/1221/3883.htm?eqid=ce15c342000be4c00000000364413dba). I obtained my Master degree in Robotics Engineering in the research group of [Prof. Jie Zhao](https://homepage.hit.edu.cn/zhaojie), Director of the Robotics Institute of Harbin Institute of Technology, under the guidance of [Prof. Yanhe Zhu](https://homepage.hit.edu.cn/zhuyanhe).
 
-My research interest includes preference-based optimizations of exoskeleton assistance during walking 🚶 and anti-interference soft manipulator with precise motion controller 🐙 . I have published 4 papers in top international journals and 2 papers in top international robotics conferences with total <a href='https://scholar.google.com/citations?user=uQ24fEgAAAAJ'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> .
+My research interest includes preference-based optimizations of exoskeleton assistance during walking 🚶 and anti-interference soft manipulator with precise motion controller 🐙 . I have published 4 papers in top international journals and 2 papers in top international robotics conferences with total <a href='https://scholar.google.com/citations?user=uQ24fEgAAAAJ'>google scholar citations <strong><span id='total_cit'>140+</span></strong></a> .
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 📖 Educations
-- *2022.06 - now*, Robotics Engineering, [the State Key Laboratory of Robotics and Systems](http://robot.hit.edu.cn), [Harbin Institute of Technology](https://www.hit.edu.cn), Harbin. 
+- *2022.06 - 2025.06*, Robotics Engineering, [the State Key Laboratory of Robotics and Systems](http://robot.hit.edu.cn), [Harbin Institute of Technology](https://www.hit.edu.cn), Harbin. 
 - *2018.09 - 2022.06*, Mechanical Engineering, [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn), [Jilin University](https://www.jlu.edu.cn), Changchun.
 
 
